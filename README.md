@@ -10,3 +10,5 @@ Commands are:
 - /drop X    -> Drop X cryptocurrency from tracked list, if not in it tell the user.
 
 (X in those last 2 cases has to be the abreviation of it's name, ex: Bitcoin would be "BTC")
+
+To beging running locally you need to have a "Telegram" and a "Nomics" token, and place the first in a file called "TOKEN_TEL" and the second one in a file called "TOKEN_CRYPTO" (or change where you get your tokens from)
